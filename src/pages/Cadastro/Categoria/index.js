@@ -9,7 +9,7 @@ function cadastroCategoria() {
             <h1>Página de cadastro de Categoria</h1>
 
             <Link to="/">
-                Ir para home
+                Ir para home agora
             </Link>
         </PageDefault>
     )
