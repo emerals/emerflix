@@ -1,6 +1,6 @@
-import styled from 'styled-components';
+import Styled from 'styled-components';
 
-const Button = styled.button`
+const Button = Styled.button`
   color: var(--white);
   border: 1px solid var(--white);
   box-sizing: border-box;
